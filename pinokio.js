@@ -1,6 +1,6 @@
 module.exports = {
   version: "7.0",
-  title: "Euphony Codex Browser",
+  title: "Euphony",
   description: "Browse local Codex session JSONL files with Euphony.",
   icon: "icon.svg",
   menu: async (kernel, info) => {
