@@ -1,0 +1,11 @@
+{
+  "title": "Euphony Codex Browser",
+  "description": "Automatically discover local Codex sessions and browse them with Euphony.",
+  "icon": "icon.svg",
+  "links": [
+    {
+      "title": "Euphony",
+      "value": "https://github.com/openai/euphony"
+    }
+  ]
+}
